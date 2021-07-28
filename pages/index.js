@@ -2,7 +2,6 @@ import BlogPost from '@/components/BlogPost';
 import { getAllFilesFrontMatter } from '@/lib/mdx';
 import Link from 'next/link';
 import Container from '../components/Container';
-import Subscribe from '../components/Subscribe';
 
 
 const ExternalLink = ({ href, children }) => (
@@ -43,7 +42,6 @@ export default function Home({ posts }) {
         {sortedPosts.map((frontMatter) => (
           <BlogPost key={frontMatter.title} {...frontMatter} />
         ))}
-        {/* <Subscribe /> */}
       </div>
     </Container>
   );
