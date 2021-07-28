@@ -2,7 +2,7 @@
 
 # hammashamzah.com 👋
 
-This repo contains the code powering [hammashamzah.com](https://hammashamzah.com). To kick start my blog dev, I forked [this repository](https://github.com/leerob/leerob.io) as it's already using the stack that I want, and also it has an almost perfect Lighthouse score (Thanks Lee!).
+This repo contains the code powering [hammashamzah.com](https://hammashamzah.com). To kick start my blog dev, I forked [this repository](https://github.com/hammashamzah/hammashamzah.com) as it's already using the stack that I want, and also it has an almost perfect Lighthouse score (Thanks Lee!).
 ## Built Using
 
 - [Next.js](https://nextjs.org/)
@@ -11,5 +11,5 @@ This repo contains the code powering [hammashamzah.com](https://hammashamzah.com
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## References
-- https://github.com/leerob/leerob.io
+- https://github.com/hammashamzah/hammashamzah.com
 

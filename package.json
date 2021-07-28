@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hammashamzh/hammashamzah.com.git"
+    "url": "git+https://github.com/hammashamzah/hammashamzah.com.git"
   },
   "scripts": {
     "build": "next build",
